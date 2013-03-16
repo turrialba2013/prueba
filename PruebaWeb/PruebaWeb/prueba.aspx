@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mensaje.aspx.cs" Inherits="PruebaWeb.mensaje" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="prueba.aspx.cs" Inherits="PruebaWeb.prueba" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,9 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>Hola Mundo</h1>
-    <br/>
-    <a href="prueba.aspx">prueba</a>
+    <h1>Hello World</h1>
     </div>
     </form>
 </body>
